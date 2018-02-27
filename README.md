@@ -36,3 +36,5 @@ You can get the full description in this article [How to build a long-term Crypt
 * [别墅郁金香传奇：区块链的估值迷局（行业观察）](https://mp.weixin.qq.com/s/nXmdwg1Tt7HIJhiBPFVXqA)
 
 * [Getting started with Bitcoin, blockchains, and cryptoassets](https://hackernoon.com/getting-started-with-bitcoin-blockchains-and-cryptoassets-2e9c1c685576)
+
+* [公有链和联盟链的道法术器](http://www.8btc.com/public-blockchains-vs-consortium-blockchains)
