@@ -38,3 +38,5 @@ You can get the full description in this article [How to build a long-term Crypt
 * [Getting started with Bitcoin, blockchains, and cryptoassets](https://hackernoon.com/getting-started-with-bitcoin-blockchains-and-cryptoassets-2e9c1c685576)
 
 * [公有链和联盟链的道法术器](http://www.8btc.com/public-blockchains-vs-consortium-blockchains)
+
+* [The Bullish Case for Bitcoin](https://medium.com/@vijayb_24615/the-bullish-case-for-bitcoin-6ecc8bdecc1)
