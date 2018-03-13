@@ -40,3 +40,5 @@ You can get the full description in this article [How to build a long-term Crypt
 * [公有链和联盟链的道法术器](http://www.8btc.com/public-blockchains-vs-consortium-blockchains)
 
 * [The Bullish Case for Bitcoin](https://medium.com/@vijayb_24615/the-bullish-case-for-bitcoin-6ecc8bdecc1)
+
+* [长铗：未来可被预言，区块链可被定义](https://mp.weixin.qq.com/s/f93hE6sC9qBWgPEgOzEpJA)
