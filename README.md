@@ -21,6 +21,8 @@ You can get the full description in this article [How to build a long-term Crypt
 
 * [placeholder](https://ipfs.io/ipfs/QmZL4eT1gxnE168Pmw3KyejW6fUfMNzMgeKMgcWJUfYGRj/Placeholder%20Thesis%20Summary.pdf)
 
+* [Quantum attacks on Bitcoin, and how to protect against them](https://arxiv.org/pdf/1710.10377.pdf)
+
 ## Blogs
 
 * [《失控》与投资:深度解读《失控》,以“进化论”研究公司的成长](http://www.sohu.com/a/105977936_119562)
