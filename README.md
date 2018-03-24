@@ -44,3 +44,5 @@ You can get the full description in this article [How to build a long-term Crypt
 * [The Bullish Case for Bitcoin](https://medium.com/@vijayb_24615/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 
 * [长铗：未来可被预言，区块链可被定义](https://mp.weixin.qq.com/s/f93hE6sC9qBWgPEgOzEpJA)
+
+* [Bitcoin will become the world’s single currency, Twitter chief says](https://www.thetimes.co.uk/article/bitcoin-will-become-the-worlds-single-currency-tech-chief-says-66slm0p6b)
