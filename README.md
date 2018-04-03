@@ -48,3 +48,5 @@ You can get the full description in this article [How to build a long-term Crypt
 * [Bitcoin will become the world’s single currency, Twitter chief says](https://www.thetimes.co.uk/article/bitcoin-will-become-the-worlds-single-currency-tech-chief-says-66slm0p6b)
 
 * [It’s Too Late — Nothing Can Stop The Bitcoin Protocol](https://decentralize.today/its-too-late-nothing-can-stop-the-bitcoin-protocol-738047bb5201)
+
+* [Why Bitcoin is Different](https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947)
