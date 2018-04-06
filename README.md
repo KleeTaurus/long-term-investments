@@ -50,3 +50,5 @@ You can get the full description in this article [How to build a long-term Crypt
 * [It’s Too Late — Nothing Can Stop The Bitcoin Protocol](https://decentralize.today/its-too-late-nothing-can-stop-the-bitcoin-protocol-738047bb5201)
 
 * [Why Bitcoin is Different](https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947)
+
+* [The Five Keys to Crypto Evolution](https://hackernoon.com/the-five-keys-to-crypto-evolution-94be921e6354)
