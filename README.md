@@ -52,3 +52,5 @@ You can get the full description in this article [How to build a long-term Crypt
 * [Why Bitcoin is Different](https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947)
 
 * [The Five Keys to Crypto Evolution](https://hackernoon.com/the-five-keys-to-crypto-evolution-94be921e6354)
+
+* [Bitcoin Data Science (Pt. 1): HODL Waves](https://blog.unchained-capital.com/bitcoin-data-science-pt-1-hodl-waves-7f3501d53f63)
