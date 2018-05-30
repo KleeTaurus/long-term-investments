@@ -58,3 +58,5 @@ You can get the full description in this article [How to build a long-term Crypt
 * [Bitcoin Data Science (Pt. 1): HODL Waves](https://blog.unchained-capital.com/bitcoin-data-science-pt-1-hodl-waves-7f3501d53f63)
 
 * [Bitcoin Data Science (Pt. 2): The Geology of Lost Coins](https://blog.unchained-capital.com/bitcoin-data-science-pt-2-the-geology-of-lost-coins-79e5a0dc6d1)
+
+* [The State of Cryptocurrency Mining](https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b)
