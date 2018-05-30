@@ -23,6 +23,8 @@ You can get the full description in this article [How to build a long-term Crypt
 
 * [Quantum attacks on Bitcoin, and how to protect against them](https://arxiv.org/pdf/1710.10377.pdf)
 
+* [Decentralization in Bitcoin and Ethereum Networks](https://arxiv.org/pdf/1801.03998.pdf)
+
 ## Blogs
 
 * [《失控》与投资:深度解读《失控》,以“进化论”研究公司的成长](http://www.sohu.com/a/105977936_119562)
@@ -54,3 +56,5 @@ You can get the full description in this article [How to build a long-term Crypt
 * [The Five Keys to Crypto Evolution](https://hackernoon.com/the-five-keys-to-crypto-evolution-94be921e6354)
 
 * [Bitcoin Data Science (Pt. 1): HODL Waves](https://blog.unchained-capital.com/bitcoin-data-science-pt-1-hodl-waves-7f3501d53f63)
+
+* [Bitcoin Data Science (Pt. 2): The Geology of Lost Coins](https://blog.unchained-capital.com/bitcoin-data-science-pt-2-the-geology-of-lost-coins-79e5a0dc6d1)
