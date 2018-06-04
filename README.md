@@ -60,3 +60,7 @@ You can get the full description in this article [How to build a long-term Crypt
 * [Bitcoin Data Science (Pt. 2): The Geology of Lost Coins](https://blog.unchained-capital.com/bitcoin-data-science-pt-2-the-geology-of-lost-coins-79e5a0dc6d1)
 
 * [The State of Cryptocurrency Mining](https://blog.sia.tech/the-state-of-cryptocurrency-mining-538004a37f9b)
+
+* [所有伟大的创新，本质上都是从一小撮年轻人肆无忌惮打破规则开始的](https://ethfans.org/posts/32033)
+
+* [加密货币挖矿的现状](https://ethfans.org/ajian1984/articles/31981)
