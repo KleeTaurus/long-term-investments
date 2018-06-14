@@ -25,6 +25,8 @@ You can get the full description in this article [How to build a long-term Crypt
 
 * [Decentralization in Bitcoin and Ethereum Networks](https://arxiv.org/pdf/1801.03998.pdf)
 
+* [A New Frontier - How Digital Assets Are Reshaping Asset Allocation](https://grayscale.co/a-new-frontier-research-paper/)
+
 ## Blogs
 
 * [《失控》与投资:深度解读《失控》,以“进化论”研究公司的成长](http://www.sohu.com/a/105977936_119562)
@@ -64,3 +66,5 @@ You can get the full description in this article [How to build a long-term Crypt
 * [所有伟大的创新，本质上都是从一小撮年轻人肆无忌惮打破规则开始的](https://ethfans.org/posts/32033)
 
 * [加密货币挖矿的现状](https://ethfans.org/ajian1984/articles/31981)
+
+* [Bitcoin Investment Theses (Part 1)](https://medium.com/@pierre_rochard/bitcoin-investment-theses-part-1-e97670b5389b)
