@@ -15,6 +15,10 @@ The indicators of long-term value:
 
 You can get the full description in this article [How to build a long-term Crypto portfolio](https://cryptopotato.com/construct-long-term-crypto-portfolio/)
 
+## Data
+
+* [Cryptocurrency metric data](https://coinmetrics.io/data-downloads/)
+
 ## Papers
 
 * [An (Institutional) Investor’s Take on Cryptoassets](https://s3.eu-west-2.amazonaws.com/john-pfeffer/An+Investor%27s+Take+on+Cryptoassets+v6.pdf)
