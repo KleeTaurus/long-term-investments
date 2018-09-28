@@ -73,8 +73,8 @@ You can get the full description in this article [How to build a long-term Crypt
 
 * [Bitcoin Investment Theses (Part 1)](https://medium.com/@pierre_rochard/bitcoin-investment-theses-part-1-e97670b5389b)
 
-* 观点 | 一位机构投资者的加密资产观 [part-1](https://ethfans.org/posts/an-institutional-investors-take-on-cryptoassets-part-1) [part-2](https://ethfans.org/posts/an-institutional-investors-take-on-cryptoassets-part-2) [part-3](https://ethfans.org/posts/an-institutional-investors-take-on-cryptoassets-part-3) [part-4](https://ethfans.org/posts/an-institutional-investors-take-on-cryptoassets-part-4) [part-5](https://ethfans.org/posts/an-institutional-investors-take-on-cryptoassets-part-5)
+* [观点 | 一位机构投资者的加密资产观](https://ethfans.org/posts/an-institutional-investors-take-on-cryptoassets-part-1) [part-2](https://ethfans.org/posts/an-institutional-investors-take-on-cryptoassets-part-2) [part-3](https://ethfans.org/posts/an-institutional-investors-take-on-cryptoassets-part-3) [part-4](https://ethfans.org/posts/an-institutional-investors-take-on-cryptoassets-part-4) [part-5](https://ethfans.org/posts/an-institutional-investors-take-on-cryptoassets-part-5)
 
 * [哪个故事真正符合人们对比特币的想象？](https://underplay.me/orange/p/209)
 
-* [智能合约的真相：理想很美好，现实很残酷](https://underplay.me/orange/p/118)
+* [智能合约的真相：理想很美好，现实很残酷](https://underplay.me/orange/p/118) [origin](https://medium.com/@jimmysong/the-truth-about-smart-contracts-ae825271811f)
