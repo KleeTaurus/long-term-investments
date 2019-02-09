@@ -78,3 +78,13 @@ You can get the full description in this article [How to build a long-term Crypt
 * [哪个故事真正符合人们对比特币的想象？](https://underplay.me/orange/p/209)
 
 * [智能合约的真相：理想很美好，现实很残酷](https://underplay.me/orange/p/118) [origin](https://medium.com/@jimmysong/the-truth-about-smart-contracts-ae825271811f)
+
+* [观点 | 比特币与社会契约](https://ethfans.org/posts/bitcoins-social-contract-by-hasu)
+
+* [干货 | 现代经济中的货币创造，Part-1](https://ethfans.org/posts/money-creation-in-modern-economy-part-1)
+
+* [干货 | 现代经济中的货币创造，Part-2](https://ethfans.org/posts/money-creation-in-modern-economy-part-2)
+
+* [干货 | 现代经济中的货币创造，Part-3](https://ethfans.org/posts/money-creation-in-modern-economy-part-3)
+
+* [干货 | 现代经济中的货币创造，Part-4](https://ethfans.org/posts/money-creation-in-modern-economy-part-4)
