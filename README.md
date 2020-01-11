@@ -90,3 +90,7 @@ You can get the full description in this article [How to build a long-term Crypt
 * [干货 | 现代经济中的货币创造，Part-4](https://ethfans.org/posts/money-creation-in-modern-economy-part-4)
 
 * [Libra，一场赛博朋克噩梦！](https://mp.weixin.qq.com/s/GDwLmsK4WLxy_Z4cw3_c7A)
+
+* [Bitcoin Macro Price Projections](https://medium.com/@robertspigler/bitcoin-macro-price-projections-44cfd800d66a)
+
+* [解码央行数字货币DCEP](https://card.weibo.com/article/m/show/id/1022:2309404447347122765862)
