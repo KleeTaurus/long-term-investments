@@ -33,6 +33,8 @@ You can get the full description in this article [How to build a long-term Crypt
 
 ## Blogs
 
+* [为何 50 年后世界货币基础是比特币？](https://www.chainnews.com/articles/750025650813.htm)
+
 * [《失控》与投资:深度解读《失控》,以“进化论”研究公司的成长](http://www.sohu.com/a/105977936_119562)
 
 * [区块链：一场始料未及的革命](http://unitimes.media/news/2942/?lang=zh)
@@ -94,3 +96,4 @@ You can get the full description in this article [How to build a long-term Crypt
 * [Bitcoin Macro Price Projections](https://medium.com/@robertspigler/bitcoin-macro-price-projections-44cfd800d66a)
 
 * [解码央行数字货币DCEP](https://card.weibo.com/article/m/show/id/1022:2309404447347122765862)
+
